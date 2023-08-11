@@ -1,0 +1,5 @@
+C:\Users\Pichau\Desktop\C# Executavel\CalcChurras\CalcChurras.exe
+C:\Users\Pichau\Desktop\C# Executavel\CalcChurras\CalcChurras.dll
+C:\Users\Pichau\Desktop\C# Executavel\CalcChurras\CalcChurras.deps.json
+C:\Users\Pichau\Desktop\C# Executavel\CalcChurras\CalcChurras.runtimeconfig.json
+C:\Users\Pichau\Desktop\C# Executavel\CalcChurras\CalcChurras.pdb

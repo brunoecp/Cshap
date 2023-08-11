@@ -1,0 +1,5 @@
+C:\Users\logonrmlocal\Desktop\calc\CalcChurras.exe
+C:\Users\logonrmlocal\Desktop\calc\CalcChurras.dll
+C:\Users\logonrmlocal\Desktop\calc\CalcChurras.deps.json
+C:\Users\logonrmlocal\Desktop\calc\CalcChurras.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\calc\CalcChurras.pdb

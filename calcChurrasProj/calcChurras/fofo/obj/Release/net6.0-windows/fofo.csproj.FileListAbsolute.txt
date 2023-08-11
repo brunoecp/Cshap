@@ -1,0 +1,17 @@
+C:\Users\Pichau\Desktop\c#\fofo\fofo\bin\Release\net6.0-windows\fofo.exe
+C:\Users\Pichau\Desktop\c#\fofo\fofo\bin\Release\net6.0-windows\fofo.deps.json
+C:\Users\Pichau\Desktop\c#\fofo\fofo\bin\Release\net6.0-windows\fofo.runtimeconfig.json
+C:\Users\Pichau\Desktop\c#\fofo\fofo\bin\Release\net6.0-windows\fofo.dll
+C:\Users\Pichau\Desktop\c#\fofo\fofo\bin\Release\net6.0-windows\fofo.pdb
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.Form1.resources
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.dll
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\refint\fofo.dll
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.pdb
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\fofo.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\c#\fofo\fofo\obj\Release\net6.0-windows\ref\fofo.dll
