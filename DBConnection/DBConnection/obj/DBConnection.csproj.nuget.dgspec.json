@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\logonrmlocal\\Desktop\\today class\\DBConnection\\DBConnection\\DBConnection.csproj": {}
+    "C:\\Users\\logonrmlocal\\Desktop\\Cshap\\DBConnection\\DBConnection\\DBConnection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\logonrmlocal\\Desktop\\today class\\DBConnection\\DBConnection\\DBConnection.csproj": {
+    "C:\\Users\\logonrmlocal\\Desktop\\Cshap\\DBConnection\\DBConnection\\DBConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\today class\\DBConnection\\DBConnection\\DBConnection.csproj",
+        "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\Cshap\\DBConnection\\DBConnection\\DBConnection.csproj",
         "projectName": "DBConnection",
-        "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\today class\\DBConnection\\DBConnection\\DBConnection.csproj",
+        "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\Cshap\\DBConnection\\DBConnection\\DBConnection.csproj",
         "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\logonrmlocal\\Desktop\\today class\\DBConnection\\DBConnection\\obj\\",
+        "outputPath": "C:\\Users\\logonrmlocal\\Desktop\\Cshap\\DBConnection\\DBConnection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

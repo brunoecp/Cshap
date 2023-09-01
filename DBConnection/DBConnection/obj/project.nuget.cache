@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CGA0s4v4anQAt8xH5L7VqoIUFVBVCOKsTzIl9Ns92OGVpje9tedibHi+32CD26NDiYBTngYpBuw59cHIVEdx6w==",
+  "dgSpecHash": "kq2SrljMjpKRQp04nCw+CG0+syY/C6sBiuX6pvquHKH6nK04EGT1HIb+CvBubHaTuPcvtyQkGLRRj8e9RrRblQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\logonrmlocal\\Desktop\\today class\\DBConnection\\DBConnection\\DBConnection.csproj",
+  "projectFilePath": "C:\\Users\\logonrmlocal\\Desktop\\Cshap\\DBConnection\\DBConnection\\DBConnection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\logonrmlocal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\logonrmlocal\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
